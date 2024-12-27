@@ -16,6 +16,9 @@ html, body {
     z-index: 10;
     position: relative;
 }
+#navbar a:hover {
+  background-color: rgb(207, 129, 142);
+}
 
 a {
     display: inline-block;
